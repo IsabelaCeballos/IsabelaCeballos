@@ -1,6 +1,6 @@
 ### Hi friends, I'm isa 👋
 
-### - 💻I'm currently a student of computer engineering and I like to learn new things every day
+- 💻I'm currently a student of computer engineering and I like to learn new things every day
 
 <!--
 **IsabelaCeballos/IsabelaCeballos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
