@@ -1,4 +1,4 @@
-### Hi friends 👋
+<h3 align="center"> Hi friends 👋🏼 </h3>
 
 My name is Isa, I'm from Colombia and I´m a web developer.
 
