@@ -1,4 +1,4 @@
-### Hi friends, I'm Isa 👋
+#### Hi friends, I'm Isa 👋
 
 - 💻 I'm a computer engineering student and I like to learn new things every day. 
 - 😎 I'm currently focused on learning everything related to web programming, however I am willing to learn about other technologies...
