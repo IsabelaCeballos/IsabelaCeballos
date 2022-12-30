@@ -1,7 +1,11 @@
-### Hi friends, I'm isa 👋
+### Hi friends, I'm Isa 👋
 
-- 💻I'm currently a student of computer engineering and I like to learn new things every day
+- 💻 I'm a computer engineering student and I like to learn new things every day. 
+- 😎 I'm currently focused on learning everything related to web programming, however I am willing to learn about other technologies...
+- 💛 I'm working on some freelance projects as a web developer and I am also interested in the area of software testing and analysis.
+- 👊🏼I love meeting new people, especially those who have a good vibe and radiate nice things.
 
+ ## Contact me
 <!--
 **IsabelaCeballos/IsabelaCeballos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
