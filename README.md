@@ -7,7 +7,10 @@ My name is Isa, I'm from Colombia and I´m a web developer.
 - 💛 I'm working on some freelance projects as a web developer and I am also interested in the area of software testing and analysis.
 - 👊🏼I love meeting new people, especially those who have a good vibe and radiate nice things.
 
- ### Contact
+ ### You can find me 🌎
+- [Instagram] (https://www.instagram.com/isabelaceballos1205/)
+- [LinkedIn] (https://www.linkedin.com/in/isabela-ceballos-franco-1a166b238)
+- [Twitter] (https://twitter.com/Isabela78053511)
 <!--
 **IsabelaCeballos/IsabelaCeballos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
