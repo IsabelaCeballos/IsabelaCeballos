@@ -14,8 +14,10 @@ My name is Isa, I'm from Colombia and I´m a web developer.
 
 <h3> You can find me 🌎</h3>
 <a href="https://www.instagram.com/isabelaceballos1205/" target="_blank"><img src="https://shields.io/badge/instagram-pink?logo=instagram&style=for-the-badge" /></a>
-<a href="https://www.linkedin.com/in/isabela-ceballos-franco-1a166b238" target="_blank"><img src="https://shields.io/badge/linkedin-white?logo=linkedin&style=for-the-badge" /></a>
-<a href="https://twitter.com/Isabela78053511" target="_blank"><img src="https://shields.io/badge/twitter-blue?logo=twitter&style=for-the-badge" /></a>
+
+<a href="https://www.linkedin.com/in/isabela-ceballos-franco-1a166b238" target="_blank"><img src="https://shields.io/badge/linkedin-blue?logo=linkedin&style=for-the-badge" /></a>
+
+<a href="https://twitter.com/Isabela78053511" target="_blank"><img src="https://shields.io/badge/twitter-white?logo=twitter&style=for-the-badge" /></a>
 
 <!--
 **IsabelaCeballos/IsabelaCeballos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
